@@ -1,3 +1,13 @@
+# skim.fish
+Super simple fork of [fzf.fish](https://github.com/patrickf1/fzf.fish) replacing [fzf](https://github.com/junegunn/fzf) with [skim](https://github.com/lotabout/skim).
+
+## Installation
+```fish
+fisher install CuriouslyCurious/skim.fish
+```
+
+**Original README for fzf.fish:**
+
 <div align="center">
 
 # fzf.fish 🔍🐟
